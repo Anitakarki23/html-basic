@@ -1,0 +1,8 @@
+create repo un github
+go to your local project and initializa git -Run git init 
+add to the git index
+-run git add .or <filename>
+commit your change 
+-Run git commit-m "writesome message"
+set up the remote connection
+push your code to rep
